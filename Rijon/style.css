@@ -1,0 +1,28 @@
+/*
+================= Style here ==============
+*/
+
+*{
+    margin: 1px;
+    padding: 1px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(116, 90, 209);
+}
+.heading-title{
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 10px;
+    color: blue;
+}
+.my-container{
+    background: rgb(64, 151, 71);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.my-row{
+    display: flex;
+}
